@@ -184,7 +184,7 @@ let DAFTAR_MAHASISWA = [
 ];
 
 // tampilkan daftar mahasiswa 
-console.log("Daftar Mahasiswa Kelas " + KELAS_PRAKTIKUM)
+console.log("Daftar Mahasiswa Kelas " + KELAS_PRAKTIKUM);
 
 // for loop digunakan untuk mengulang kode berkali kali sampai kondisi terminasinya habis
 // struktur for loop ; (awal; kondisitreminasi; langkah) {...}
